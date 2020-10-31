@@ -1,2 +1,2 @@
 # HEAPCPP
-A standard Heap in C++ implemented in C++.
+A standard Heap in C++ implemented in C++. User can write their own test cases with the test case file and debug as necessary. C++ does not support standard heaps or the increase heap operation that is traditionally in the computer science field. Ultimately led to the inspiration to create a heap that supprts creation from vectors,arrays,iterators nad normal arrays. It has supports for various containers.
